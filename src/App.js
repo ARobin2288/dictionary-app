@@ -8,6 +8,7 @@ export default function App() {
       <main>
         <Dictionary />
       </main>
+      <footer>Coded by Robin A. Hosted on GitHub</footer>
     </div>
     </div>
   );

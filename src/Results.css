@@ -4,3 +4,7 @@
 .Results h2 {
   text-transform: capitalize;
 }
+
+.Results .word {
+  text-align: center;
+}

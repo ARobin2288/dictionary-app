@@ -1,8 +1,12 @@
 .Dictionary {
-  margin: 0 auto;
+  margin: 50px 22px 25px 22px;
 }
 
 .Dictionary h1 {
   padding: 10px 5px;
   color: blue;
+}
+
+.Dictionary form {
+  text-align: right;
 }

@@ -1,5 +1,6 @@
 import React from "react";
 import Meaning from "./Meaning";
+import "./Results.css";
 
 export default function Results(props) {
     if (props.results) {
@@ -12,8 +13,9 @@ export default function Results(props) {
                         <Meaning meaning={meaning} />
                     </div>
                 );
-        })}
-    </div>);
+            })}
+        </div>
+        );
     } else {
         return null;
     }

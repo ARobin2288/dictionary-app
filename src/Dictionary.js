@@ -32,9 +32,9 @@ export default function Dictionary() {
                 <form onSubmit={search}>
                     <input type="search" placeholder="Search..." onChange={handleKeywordChange} />
                 </form>
-                <Results  results={results} />
             </div>
         </div>
+        <Results  results={results} />
     </div>
     );
 }

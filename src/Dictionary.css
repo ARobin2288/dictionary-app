@@ -11,9 +11,9 @@ section {
 }
 
 .Dictionary h1 {
-  padding: 12px 0px;
+  padding: 18px 0px;
   color: rgb(167, 153, 183);
-  font-size: 52px;
+  font-size: 48px;
   font-family: "Marvel", sans-serif;
 }
 
@@ -23,7 +23,7 @@ section {
 }
 
 input {
-  width: 82%;
+  width: 75%;
   height: 36px;
   padding: 2px 8px;
   font-size: 16px;

@@ -1,3 +1,7 @@
 .Phonetic {
   font-size: 18px;
 }
+
+.Phonetic a {
+  text-decoration: none;
+}

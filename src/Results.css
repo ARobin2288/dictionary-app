@@ -1,10 +1,14 @@
 .Results {
-  margin-top: 50px;
-}
-.Results h2 {
-  text-transform: capitalize;
+  margin: 0 auto;
+  padding: 8px 0px;
 }
 
 .Results .word {
   text-align: center;
+}
+
+.Results h2 {
+  text-transform: capitalize;
+  font-size: 52px;
+  font-family: "Marvel", sans-serif;
 }

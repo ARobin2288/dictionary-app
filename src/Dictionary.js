@@ -47,8 +47,11 @@ export default function Dictionary(props) {
     <div className="Dictionary">
         <section>
             <div className="row">
-                <div className="col-5">
+                <div className="col-2">
                     <h1>Dictionary</h1>
+                </div>
+                <div className="col-3">
+                    <br />
                 </div>
                 <div className="col-7">
                     <div className="Searchbar">
@@ -56,7 +59,7 @@ export default function Dictionary(props) {
                             <input type="search" placeholder="Search..." onChange={handleKeywordChange} />
                         </form>
                         <p>
-                            Suggested Words: Nightfall, Halloween, Octopus, Smorgasbord
+                            Try: Nightfall, Halloween, Octopus, Waterfall
                         </p>
                     </div>
                 </div>

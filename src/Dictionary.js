@@ -49,6 +49,7 @@ export default function Dictionary(props) {
             <div className="row">
                 <div className="col-2">
                     <h1>Dictionary</h1>
+                    <h1>/Aesthetic</h1>
                 </div>
                 <div className="col-3">
                     <br />
@@ -56,11 +57,9 @@ export default function Dictionary(props) {
                 <div className="col-7">
                     <div className="Searchbar">
                         <form onSubmit={handleSubmit}>
-                            <input type="search" placeholder="Search..." onChange={handleKeywordChange} />
+                            <input type="search" placeholder="Search for..." onChange={handleKeywordChange} />
                         </form>
-                        <p>
-                            Try: Nightfall, Halloween, Octopus, Waterfall
-                        </p>
+                        <p>Example: Coffee, Octopus, Pets, Sweet</p>
                     </div>
                 </div>
             </div>

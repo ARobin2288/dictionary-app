@@ -1,12 +1,13 @@
 h3 {
-  font-size: 26px;
+  font-size: 30px;
   text-transform: capitalize;
   font-family: "Marvel", sans-serif;
 }
 
 .Meaning p {
-  font-size: 16px;
-  margin-bottom: 1px;
-  margin-top: 2px;
+  font-size: 17px;
+  margin-bottom: 2px;
+  margin-top: -2px;
+  margin-left: 8px;
   font-family: "Marvel", sans-serif;
 }

@@ -7,7 +7,7 @@
   text-align: center;
 }
 
-.Results h2 {
+.Results .word h2 {
   text-transform: capitalize;
   font-size: 52px;
   font-family: "Marvel", sans-serif;

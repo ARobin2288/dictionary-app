@@ -45,11 +45,10 @@ export default function Dictionary(props) {
     if (loaded) {
         return (
     <div className="Dictionary">
-        <section>
+        <section className="Heading">
             <div className="row">
                 <div className="col-2">
                     <h1>Dictionary</h1>
-                    <h1>/Aesthetic</h1>
                 </div>
                 <div className="col-3">
                     <br />

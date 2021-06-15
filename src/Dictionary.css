@@ -10,15 +10,18 @@ section {
   margin: 22px 0px;
 }
 
+.Heading {
+  padding-top: 50px;
+}
+
 .Dictionary h1 {
   color: #9692af;
-  font-size: 36px;
+  font-size: 38px;
   font-family: "Marvel", sans-serif;
 }
 
 .Searchbar {
   text-align: right;
-  padding: 22px 2px 0px 0px;
 }
 
 input {

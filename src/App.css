@@ -4,12 +4,18 @@
 }
 
 footer {
-  color: rgb(167, 153, 183);
+  color: #e1e5ea;
   font-weight: bolder;
   font-family: "Marvel", sans-serif;
   font-size: 18px;
+  margin-top: -22px;
 }
 
 a {
-  color: rgb(167, 153, 183);
+  color: #e1e5ea;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #134a71;
 }

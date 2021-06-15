@@ -8,7 +8,7 @@ export default function App() {
       <main>
         <Dictionary defaultKeyword="Peaceful"/>
       </main>
-      <footer>Coded by Robin A. Open-Sourced on <a href="https://github.com/ARobin2288/dictionary-app">GitHub</a> Hosted on <a href="https://tender-goldstine-cfc985.netlify.app/">Netlify</a></footer>
+      <footer>Coded by <a href="https://www.instagram.com/robinandrews22/?hl=en">Robin A</a>. Open-Sourced on <a href="https://github.com/ARobin2288/dictionary-app">GitHub</a> Hosted on <a href="https://tender-goldstine-cfc985.netlify.app/">Netlify</a></footer>
     </div>
     </div>
   );
